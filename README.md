@@ -2,6 +2,7 @@
 building ai course project
 Project Name: HealthTrackAI
 
+
 Brief Description: HealthTrackAI is an AI-powered application designed to monitor and analyze daily health metrics to provide personalized health recommendations and early warnings for potential health issues.
 
 Background
